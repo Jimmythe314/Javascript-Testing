@@ -1,0 +1,28 @@
+<DOCKTYPE HTML>
+  <html>   <!--using html and javascript-->
+  <head>
+    <title>HTML and Javascript</title> <!--First time ever to code both
+      so that's the reason for the title//-->
+  </head>
+  <body>
+    <h1>this is going to be awkward</h1> <!--random title-->
+    <p><i><b><big><del>coding is a fun thing yayyyayayyaya</p></i></b></big></del>
+    <!--test for text display//-->
+    <script>
+    document.write("ok now for the real deal");
+    //to alert the reader that this is not playtime anymore
+    var a = true
+    /* var a is a
+    test for loading status*/
+    if (a == true) {
+      alert("successful login"); //if successful this will pop up
+    }
+    else {
+      alert("sorry failed"); //if not this will
+    }
+    //the if statement to test status of a
+    var b = ("dogs, more dogs, and more dogs"); //testing array again
+    </script>
+  </body>
+</html> <!--time to end this guy-->
+
