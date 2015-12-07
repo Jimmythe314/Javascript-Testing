@@ -1,0 +1,25 @@
+<DOCKTYPE HTML>
+    <html>
+        <head>
+            <title>Prototype Website Basics #1</title>
+        </head>
+            <body>
+                <script>
+                var a = false;
+                var b = "Hello World";
+                var c = 189;
+                document.write("Jimmy Prototype");
+                document.write ("<br>");
+                if (a == false) {
+                  document.write("Welcome");
+                }
+                   else if (true) {
+                     document.write("Error 404");
+                   }
+                       else {
+                         document.write("hahahahahahhahaha no though");
+                       }
+                </script>
+            </body>
+            </body>
+    </html>
